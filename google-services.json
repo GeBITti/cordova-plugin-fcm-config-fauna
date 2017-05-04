@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "313011341829",
-    "firebase_url": "https://api-project-313011341829.firebaseio.com",
-    "project_id": "api-project-313011341829",
-    "storage_bucket": "api-project-313011341829.appspot.com"
+    "project_number": "594568442609",
+    "firebase_url": "https://laabtestproject.firebaseio.com",
+    "project_id": "laabtestproject",
+    "storage_bucket": "laabtestproject.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:313011341829:android:07ce8321765e35ba",
+        "mobilesdk_app_id": "1:594568442609:android:07ce8321765e35ba",
         "android_client_info": {
           "package_name": "br.com.uselaab.laab"
         }
       },
       "oauth_client": [
         {
-          "client_id": "313011341829-0fbqneu8bj09nsrrc2p71bhhm8me1map.apps.googleusercontent.com",
+          "client_id": "594568442609-ck4vd8912h8qt9i00qqm1bfoo4rrtao4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBZpXcWWCkMA4_W5XwFCSa8GhKqR-8csiE"
+          "current_key": "AIzaSyBFvK5Gyc242i90bDBbZtZyhR8V55naYfM"
         }
       ],
       "services": {
