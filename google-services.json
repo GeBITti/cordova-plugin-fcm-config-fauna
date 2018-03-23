@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "47321852261",
-    "firebase_url": "https://laab-f6fb3.firebaseio.com",
-    "project_id": "laab-f6fb3",
-    "storage_bucket": "laab-f6fb3.appspot.com"
+    "project_number": "519244899029",
+    "firebase_url": "https://fauna-f10b4.firebaseio.com",
+    "project_id": "fauna-f10b4",
+    "storage_bucket": "fauna-f10b4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:47321852261:android:07ce8321765e35ba",
+        "mobilesdk_app_id": "1:519244899029:android:6652bc1afd61db67",
         "android_client_info": {
-          "package_name": "br.com.uselaab.laab"
+          "package_name": "br.com.fauna"
         }
       },
       "oauth_client": [
         {
-          "client_id": "47321852261-fkg3etmsl64fbs3kdb2r2i11gqafcl8g.apps.googleusercontent.com",
+          "client_id": "519244899029-kvt8h2qu85jtrv2ns7p1h9ruk4jsml6s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDyqzVMMXhD68cjbmtpLc-QI8hOEft8frU"
+          "current_key": "AIzaSyBaj_pStT71KVyAi8WwAWQMVaIWmZ4bYQI"
         }
       ],
       "services": {
