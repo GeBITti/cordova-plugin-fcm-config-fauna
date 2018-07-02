@@ -17,6 +17,45 @@
         {
           "client_id": "519244899029-kvt8h2qu85jtrv2ns7p1h9ruk4jsml6s.apps.googleusercontent.com",
           "client_type": 3
+        },
+        {
+          "client_id": "519244899029-kvt8h2qu85jtrv2ns7p1h9ruk4jsml6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaj_pStT71KVyAi8WwAWQMVaIWmZ4bYQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519244899029:android:cdb32a93a25aebf8",
+        "android_client_info": {
+          "package_name": "br.com.fauna.prestador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519244899029-kvt8h2qu85jtrv2ns7p1h9ruk4jsml6s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "519244899029-kvt8h2qu85jtrv2ns7p1h9ruk4jsml6s.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
